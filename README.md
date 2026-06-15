@@ -1,6 +1,9 @@
 # Zoink Simulator
 
 > Pretend to be the king of Geometry Dash in Pygame!
+
+<sub>school project</sub>
+
 ## Overview
 
 > This project is a recreation of the basic functionality of the wave gamemode from **Geometry Dash**, which moves in 45 degrees diagonally up and down. I decided to create this as I have had a lot of passion for the game for the past 6 years, and I thought some of my friends might like it, hence why I named it **Zoink Simulator**, the name of the best player in the game at the moment, also paying homage to a lot of silly simulator games I used to enjoy many years ago by random developers.
